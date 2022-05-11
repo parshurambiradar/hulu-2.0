@@ -45,7 +45,7 @@ export default {
     title: "TV Movie",
     url: `/discover/movie?api_key=${API_KEY}&with_genres=10770`,
   },
-  fecthTV: {
+  fecthShows: {
     title: "TV Shows",
     url: `/discover/movie?api_key=${API_KEY}&with_genres=10770`,
   },
